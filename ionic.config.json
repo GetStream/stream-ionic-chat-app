@@ -1,0 +1,7 @@
+{
+  "name": "stream-ionic-chat-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
